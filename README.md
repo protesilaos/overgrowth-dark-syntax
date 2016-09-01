@@ -1,21 +1,27 @@
-# Overgrowth syntax theme (dark variant)
+# Overgrowth syntax theme (dark version)
 
-Medium-to-high contrast. Green is the most prevalent accent, followed by orange, and yellow.
+Medium-to-high contrast theme. The most prevalent colours are variants of green, orange, red, yellow, and magenta.
 
-*Overgrowth* comes in light and dark variants.
+*Overgrowth* comes in standalone light and dark versions (see further info below).
 
-Project page: [http://www.protesilaos.com/overgrowth](http://www.protesilaos.com/overgrowth)
-
-Light variant: [https://atom.io/themes/overgrowth-syntax](https://atom.io/themes/overgrowth-syntax)
-
-Dark variant: [https://atom.io/themes/overgrowth-dark-syntax](https://atom.io/themes/overgrowth-dark-syntax)
-
-## Screenshots
+## Screenshot
 
 ![overgrowth dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/overgrowth/img/overgrowth_dark_sample.png)
 
-![overgrowth light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/overgrowth/img/overgrowth_light_sample.png)
+*The font in the screenshot is [Hack](https://github.com/chrissimpkins/Hack)*.  
+*Demo code by http://codemirror.net/mode/javascript/index.html*  
+*The UI theme is https://atom.io/themes/atom-material-ui*.
 
-## Palette
+## Download
 
-![overgrowth colour scheme](https://raw.githubusercontent.com/protesilaos/prot16/master/overgrowth/img/overgrowth_colours.png)
+Search for `overgrowth-dark-syntax` in Settings > Install > Themes. Or install it directly using the command:
+
+```shell
+apm install overgrowth-dark-syntax
+```
+
+## Further information
+
+Project page: [http://www.protesilaos.com/overgrowth](http://www.protesilaos.com/overgrowth)
+
+Overgrowth light version: [https://atom.io/themes/overgrowth-syntax](https://atom.io/themes/overgrowth-syntax)
